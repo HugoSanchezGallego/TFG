@@ -1,0 +1,4 @@
+﻿train: C:\Users\sgghu\OneDrive\Documents\GitHub\TFG\data\dataset\train\images
+val: C:\Users\sgghu\OneDrive\Documents\GitHub\TFG\data\dataset\valid\images
+nc: 3
+names: ['ball', 'player', 'referee']
