@@ -1,0 +1,33 @@
+# Datos pesados
+data/raw/
+data/frames/
+data/dataset/
+data/auto_labeled/
+
+# Modelos y resultados de entrenamiento
+runs/
+models/
+*.pt
+*.cache
+
+# Salidas del pipeline
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
